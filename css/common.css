@@ -6,3 +6,8 @@ background-color: #ffffff;
 ul {
     list-style-type: none;
 }
+.conteiner{
+    width: 1158;
+    margin: 0, auto;
+    padding: 0, 15px;
+}

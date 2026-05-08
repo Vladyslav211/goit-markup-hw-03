@@ -7,6 +7,7 @@ font-size: 18px;
 letter-spacing: 0.54px;
 text-decoration: none;
 text-transform: uppercase;
+margin-left: 76px;
 }
 .logo span {
     color: #4D5AE5;
@@ -23,6 +24,8 @@ list-style-type: none;
 }
 .nav-list {
     list-style-type: none;
+    display: flex;
+    gap: 40px;
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -40,8 +43,19 @@ font-style: normal;
 }
 .contact-list{
     list-style-type: none;
+    display: flex;
+    gap: 40px;
+    margin-right: 76px;
 }
 .contact-link:hover,
 .contact-link:focus {
 color: #404BBF;
+}
+ .header-conteiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+.header{
+    border-bottom: 1px solid #e7e9fc;
 }
