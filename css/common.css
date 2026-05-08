@@ -1,13 +1,19 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
 body {
 font-family: "Roboto", sans-serif;
 color: #434455;
 background-color: #ffffff;
 }
-ul {
+ul{
     list-style-type: none;
 }
-.conteiner{
-    width: 1158;
+.conteiner {
+    width: 1158px;
     margin: 0, auto;
     padding: 0, 15px;
+    justify-content: center;
 }

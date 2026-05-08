@@ -18,13 +18,13 @@ color: #434455
 list-style-type: none;
 display: flex;
 gap: 24px;
+justify-content: center;
 }
 .features{
 padding: 120px 0px;
 }
 .features-item{
     width: calc((100% - 72px) / 4);
-
 }
 .features-subtitle{
     margin-bottom: 8px;
