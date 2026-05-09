@@ -35,6 +35,7 @@ justify-content: center;
     width: 264px;
     height: 260px;
     background-color: #ffffff;
+    display: block;
 }
 .team {
     background-color: #F4F4FD;
@@ -44,9 +45,6 @@ justify-content: center;
 .team-item {
     background-color: #ffffff;
     border-radius: 0 0 4px 4px;
-}
-.team-item img{
-    display: block;
 }
 .team-content {
     padding: 32px 16px;

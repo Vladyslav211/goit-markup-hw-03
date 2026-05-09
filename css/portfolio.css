@@ -4,9 +4,7 @@
     line-height: 1.11;
     letter-spacing: 0.72px;
     text-align: center;
-    color: #2e2f42;
-    margin-bottom: 72px;
-    
+    color: #2e2f42; 
     margin-bottom: 8px;
 }
 
@@ -45,6 +43,6 @@ width: calc((100% - 48px) / 3);
     border: 1px solid #e7e9fc;
     border-top: none;
 }
-.portfolio-item img{
+.portfolio-image{
     display: block;
 }
