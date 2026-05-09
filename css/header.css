@@ -7,7 +7,6 @@ font-size: 18px;
 letter-spacing: 0.54px;
 text-decoration: none;
 text-transform: uppercase;
-margin-left: 76px;
 }
 .logo span {
     color: #4D5AE5;
@@ -26,6 +25,8 @@ list-style-type: none;
     list-style-type: none;
     display: flex;
     gap: 40px;
+    padding: 24px;
+
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -45,17 +46,20 @@ font-style: normal;
     list-style-type: none;
     display: flex;
     gap: 40px;
-    margin-right: 76px;
 }
 .contact-link:hover,
 .contact-link:focus {
 color: #404BBF;
 }
- .header-conteiner{
+ .header-container{
     display: flex;
     justify-content: space-between;
     align-items: center;
  }
 .header{
     border-bottom: 1px solid #e7e9fc;
+}
+.header-nav{
+    display: flex;
+    align-items: center;
 }

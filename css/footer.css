@@ -1,9 +1,6 @@
 .footer {
     background-color: #2E2F42;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 100px 0;
 }
 .footer-logo {
 color: #f4f4fd;

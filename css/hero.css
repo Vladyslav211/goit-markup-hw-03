@@ -23,9 +23,8 @@ color: #ffffff;
 background-color: #4D5AE5;
 cursor: pointer;
 display: block;
-margin: 48px, auto, 0;
-min-width: 169px;
-height: 56px;
+margin: 48px auto 0;
+padding: 16px 32px;
 border-radius: 4px;
 border: none;
 }
