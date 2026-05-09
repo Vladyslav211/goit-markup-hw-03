@@ -39,11 +39,11 @@ justify-content: center;
     background-color: #F4F4FD;
     padding-top: 120px;
     padding-bottom: 120px;
-    width: 264px;
 }
 .team-item {
     background-color: #ffffff;
     border-radius: 0 0 4px 4px;
+    width: calc((100% - 72px) / 4);
 }
 .team-content {
     padding: 32px 16px;
